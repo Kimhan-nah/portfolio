@@ -58,3 +58,9 @@
 ![docu-point-028](./img/DocuPoint.028.png)
 ![docu-point-029](./img/DocuPoint.029.png)
 ![docu-point-030](./img/DocuPoint.030.png)
+
+
+</br></br></br></br>
+<div style="text-align: right;">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimhan-nah%2Fportfolio%2Fblob%2Fmain%2Fdocu-point%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>

@@ -1,19 +1,20 @@
-# Portfolio
+# Portfolio   
 - [Portfolio](#portfolio)
 - [질문하는 개발자 김한나입니다 👩🏻‍💻](#질문하는-개발자-김한나입니다-)
 - [업무 결재 시스템, DocuPoint 📑](#업무-결재-시스템-docupoint-)
     - [👉 DocuPoint Portfolio 👈](#-docupoint-portfolio-)
 - [오프라인 게임 매칭 서비스, 42gg  🎮](#오프라인-게임-매칭-서비스-42gg--)
 
+
 # 질문하는 개발자 김한나입니다 👩🏻‍💻
 - Email. skqkdldhf98@gmail.com
 
 
 # 업무 결재 시스템, DocuPoint 📑
-### 👉 [DocuPoint Portfolio](https://github.com/Kimhan-nah/portfolio/tree/main/docu-point) 👈
 
 > 수행한 업무에 대한 **문서 작업**의 기여도 포인트를 요청하고 승인하는 **결재 시스템**
 
+### 👉 [DocuPoint Portfolio](https://github.com/Kimhan-nah/portfolio/tree/main/docu-point) 👈
 
 - 기간 : 🗓️ 2024.04 ~ 2024.05
 - 기술 스택 : **`Spring`, `SpringBoot`, `JPA`, `MySQL`, `Spring Security`, `QueryDSL`**
@@ -40,3 +41,11 @@
       - 새로운 기수를 주기적으로 선발하며 **문서화 및 테스트 코드 작성의 필요성**을 더욱 절감했습니다.
       - 통합 테스트 커버리지 **68% → 74%**
       - 단위 테스트 커버리지 **0% → 30%**
+
+
+
+
+</br></br></br></br>
+<div style="text-align: right;">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimhan-nah%2Fportfolio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
