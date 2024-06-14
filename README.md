@@ -18,11 +18,17 @@
 
 - 기간 : 🗓️ 2024.04 ~ 2024.05
 - 기술 스택 : **`Spring`, `SpringBoot`, `JPA`, `MySQL`, `Spring Security`, `QueryDSL`**
+- 링크
+  - [<img src="./public/github.svg" alt="github" width="20" height="20"> DocuPoint GitHub 바로가기](https://github.com/Kimhan-nah/document-point)
+
 - Back-end
   - **헥사고날 아키텍처(포트-어댑터)** 적용하여 변경에 유연한 구조 설계
   - CQRS 패턴 적용
   - QueryDSL **페이지네이션 및 필터링** 구현
   - Service, Repository **테스트 커버리지** Line 기준 **100% 달성**
+
+<!-- ![github](./public/github.svg) -->
+
 
 # 오프라인 게임 매칭 서비스, 42gg  🎮
 > 약 1,000명의 유저와 6,500여 개의 게임을 매칭한 오프라인 탁구 경기 매칭 서비스
@@ -31,7 +37,7 @@
 - 기술 스택 : **`Spring` `SpringBoot` `JPA` `MySQL` `Redis` `AWS` `Docker` `flyway`**
 - 링크
   - [🔗 42gg 바로가기](https://gg.42seoul.kr/)
-  - [🔗 42gg GitHub  바로가기](https://github.com/42organization/42gg.server.dev.v2)
+  - [<img src="./public/github.svg" alt="github" width="20" height="20"> 42gg GitHub  바로가기](https://github.com/42organization/42gg.server.dev.v2)
 - Back-end
   - **5기 백엔드 팀장,** **유지 보수 및 기능 개발**
   - 토너먼트 기능 개발, 관리자 매칭큐 모니터링 개발, 신규 기수 모집 기능 개발
